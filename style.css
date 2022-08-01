@@ -1,0 +1,102 @@
+body
+{
+    background-size: cover;
+}
+
+#title
+{
+ font-family: monospace;
+ color:darkred;
+ float: left;
+ display: inline;
+}
+#instructions
+{
+    color: darkred;
+    background-color: lightgreen;
+    font-family: monospace;
+    height:max-content;
+    width:max-content ;
+    font-size: 20px;
+    float: right;
+    margin-top:15px ;
+}
+
+#instruct
+{
+  width: 100%;
+}
+#start
+{
+   margin-bottom: 15px;
+   margin-top: 15px;
+   color: lightgreen;
+   background-color: darkslategray;
+   font-family: monospace;
+   border-color:mediumvioletred ;
+   border-width: 4px;
+   border-radius: 4px;
+}
+footer
+{
+  position: fixed;
+  bottom: 0;
+  font-family: cursive;
+  color:firebrick;
+  background-color: rgb(184, 255, 231);
+  border-width: 3px;
+  border-color: darkkhaki;
+  border-radius: 8px;
+  width: 100%;
+  font-size: 21px;
+  line-height: 3;
+  text-align: center;
+}
+#myModal
+{
+  background-color:lightgreen;
+  height: 560px;
+  width: 800px;
+  margin-left: 475px;
+  margin-top: 150px;
+  border-color:mediumvioletred ;
+  border-width: 4px;
+  border-radius: 4px;
+}
+#restart_button
+{
+   margin-bottom: 15px;
+   margin-top: 15px;
+   color: paleturquoise;
+   background-color: darkslategray;
+   font-family: monospace;
+   border-color:mediumvioletred ;
+   border-width: 4px;
+   border-radius: 4px;
+}
+/* video{
+  background-image: url(game_console.png);
+  background-size: cover;
+  background-position: center;
+  padding: 50px;
+} */
+/* #rule1
+{
+  color: mediumorchid;
+  font-family:initial;
+}
+#rule2
+{
+  color: mediumvioletred;
+  font-family:monospace ;
+}
+#rule3
+{
+  color: firebrick;
+  font-family:fantasy;
+}
+#rule4
+{
+  color: slateblue;
+  font-family: cursive;
+} */
